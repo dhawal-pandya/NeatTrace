@@ -20,11 +20,7 @@ Example:
 ### Input:
 
 ```json
-{
-  "level": "info",
-  "message": "User logged in",
-  "timestamp": "2024-11-29T12:34:56Z"
-}
+{"level": "info","message": "User logged in", "timestamp": "2024-11-29T12:34:56Z"}
 ```
 
 ### Output:
